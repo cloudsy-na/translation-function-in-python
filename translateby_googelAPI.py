@@ -1,5 +1,5 @@
 #you must install the library first
-# python m- pip install googletrans
+#python m- pip install googletrans
 
 from googletrans import Translator, LANGUAGES
 
