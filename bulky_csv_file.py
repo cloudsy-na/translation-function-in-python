@@ -20,6 +20,6 @@ df_trans = df.replace(translations, inplace = True)
 #print(df.head(20))
 
 #df.to_excel("filename_here.xlsx")
-df.to_csv("bq-results-re003_output.csv")
+df.to_csv("bq-results-re005_output.csv")
 
 ctypes.windll.user32.MessageBoxW(0, "Selamat Bro, Berhasil !","Sekilas Info", 0)
